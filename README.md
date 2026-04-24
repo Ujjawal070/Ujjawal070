@@ -24,6 +24,8 @@ I'm Ujjawal.
 <div align="left">
   <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" height="40" alt="typescript logo" />
   <img width="12" />
+   <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png](https://images.icon-icons.com/844/PNG/512/CSS3_icon-icons.com_67069.png" height="40" alt="typescript logo" />
+  <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
