@@ -22,7 +22,7 @@ I'm Ujjawal.
 ###
 
 <div align="left">
-  <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png"  />
+  <img src="https://images.icon-icons.com/171/PNG/512/html5_23329.png" height="40" alt="typescript logo" />
   <img width="12" />
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
