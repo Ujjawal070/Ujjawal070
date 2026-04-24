@@ -27,8 +27,10 @@ I'm Ujjawal.
    <img src="https://images.icon-icons.com/844/PNG/512/CSS3_icon-icons.com_67069.png" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="40" alt="typescript logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" /> 
+  <img src="https://images.icon-icons.com/1508/PNG/512/python_104451.png" height="40" alt="typescript logo"/>
+  <img width="12" /> 
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -41,7 +43,7 @@ I'm Ujjawal.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div> 
+</div>  -->
 
 ###
 
